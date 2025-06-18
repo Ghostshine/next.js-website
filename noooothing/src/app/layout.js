@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
         </section>
     </main>
 
-    <footer id="footerId"> Daria Borowska | 122832 | 2k25 </footer>
+    <footer id="footerId"> Daria Borowska | 122832 | 2k25</footer>
   </body>
     </html>
   );

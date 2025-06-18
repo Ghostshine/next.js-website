@@ -7,7 +7,7 @@ export default function More() {
             src="https://rick.nerial.uk/video.mp4"
             frameBorder="0"
             allow="autoplay"
-            allowfullscreen></iframe>
+            allowfullscreen="true"  ></iframe>
     </div>
   );
 }
